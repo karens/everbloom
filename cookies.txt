@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.everbloom.dev	TRUE	/	FALSE	1999999999	SESS29fe4f06b85380fdca9c46305b874bfb	deleted
+
