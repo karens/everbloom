@@ -1,0 +1,7 @@
+Mirror in progress since Sun, 04 Jan 2015 02:29:27 .. please wait!
+httrack http://everbloom.dev -O /Library/WebServer/Documents/github/everbloom -N %h%p/%n/index%[page].%t -WqQ%v -s0 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=3120
+UID=501
+GID=501
+START=1420360167
