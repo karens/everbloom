@@ -1,90 +1,91 @@
-<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://everbloom7.kbox.site/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://everbloom7.kbox.site/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ever-Bloom Tournament Trail - Central Illinois Bass Tournament Trail - 100% Payback</title>
-    <link>https://everbloom7.kbox.site/</link>
+    <link>http://everbloom7.kbox.site/</link>
     <description></description>
     <language>en</language>
-     <atom:link href="https://everbloom7.kbox.site/rss.xml?order=field_weight&amp;sort=desc" rel="self" type="application/rss+xml" />
+     <atom:link href="http://everbloom7.kbox.site/rss.xml?order=field_weight&amp;sort=desc" rel="self" type="application/rss+xml" />
       <item>
+    <title>Ever-bloom Tournament</title>
+    <link>http://everbloom7.kbox.site/tournament/06-17-2017/8356</link>
+    <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, June 17, 2017 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/06-17-2017/8356&quot; title=&quot;June 17, 2017&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm5.staticflickr.com/4238/34569535983_06211ef47b_z.jpg&quot; alt=&quot;June 17, 2017&quot; title=&quot;June 17, 2017&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157682167607142&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sun, 18 Jun 2017 11:08:19 +0000</pubDate>
+ <dc:creator>Karen Stevenson</dc:creator>
+ <guid isPermaLink="false">8356 at http://everbloom7.kbox.site</guid>
+  </item>
+  <item>
+    <title>Change!!</title>
+    <link>http://everbloom7.kbox.site/blog/change</link>
+    <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;NEWS UPDATE: The reschedule of the cancelled tournament on Evergreen has been changed for the final time. The date for that event will be July 8th instead of July 15 as previously announced. The TD, Terry, messed up the dates in the first announcment. Sorry for the confusion. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Sat, 10 Jun 2017 10:55:38 +0000</pubDate>
+ <dc:creator>Karen Stevenson</dc:creator>
+ <guid isPermaLink="false">8355 at http://everbloom7.kbox.site</guid>
+  </item>
+  <item>
     <title>Ever-Bloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/06-03-2017/8328</link>
+    <link>http://everbloom7.kbox.site/tournament/06-03-2017/8328</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, June 3, 2017 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/06-03-2017/8328&quot; title=&quot;June 3, 2017&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm5.staticflickr.com/4207/34279319573_57e678c2e0_z.jpg&quot; alt=&quot;June 3, 2017&quot; title=&quot;June 3, 2017&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157684645741005&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 04 Jun 2017 12:38:20 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8328 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8328 at http://everbloom7.kbox.site</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/05-06-2017/8298</link>
+    <link>http://everbloom7.kbox.site/tournament/05-06-2017/8298</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, May 6, 2017 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/05-06-2017/8298&quot; title=&quot;May 6, 2017&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm5.staticflickr.com/4180/34120627620_cdec2c9ab9_z.jpg&quot; alt=&quot;May 6, 2017&quot; title=&quot;May 6, 2017&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157681635051900&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 07 May 2017 11:24:59 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8298 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8298 at http://everbloom7.kbox.site</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/04-15-2017/8270</link>
+    <link>http://everbloom7.kbox.site/tournament/04-15-2017/8270</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, April 15, 2017 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/04-15-2017/8270&quot; title=&quot;April 15, 2017&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm4.staticflickr.com/3955/33248311963_c09133c585_z.jpg&quot; alt=&quot;April 15, 2017&quot; title=&quot;April 15, 2017&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157679339070574&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 16 Apr 2017 13:14:07 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8270 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8270 at http://everbloom7.kbox.site</guid>
   </item>
   <item>
     <title>2017 Schedule</title>
-    <link>https://everbloom7.kbox.site/blog/2017-schedule</link>
+    <link>http://everbloom7.kbox.site/blog/2017-schedule</link>
     <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Apr 15 - Lake Evergreen&lt;br /&gt;May 6 - Lake Bloomington&lt;br /&gt;May 20 - Lake Evergreen&lt;br /&gt;Jun 3 - Lake Bloomington&lt;br /&gt;Jun 17 - Lake Evergreen&lt;br /&gt;Jul 22 - Lake Bloomington&lt;br /&gt;Aug 5 - Lake Evergreen&lt;br /&gt;Aug 26 - Lake Bloomington&lt;br /&gt;Sep 9 &amp;amp; 10 -  Lake Evergreen/Lake Bloomington&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Tue, 07 Feb 2017 21:06:59 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8235 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8235 at http://everbloom7.kbox.site</guid>
   </item>
   <item>
     <title>Ever-Bloom Classic</title>
-    <link>https://everbloom7.kbox.site/tournament/09-10-2016/8209</link>
+    <link>http://everbloom7.kbox.site/tournament/09-10-2016/8209</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;Saturday, September 10, 2016 - 6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;Sunday, September 11, 2016 - 2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/09-10-2016/8209&quot; title=&quot;September 10-11, 2016&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm9.staticflickr.com/8402/29508284372_bec925191d_z.jpg&quot; alt=&quot;September 10-11, 2016&quot; title=&quot;September 10-11, 2016&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157670461921384&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 11 Sep 2016 23:43:07 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8209 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8209 at http://everbloom7.kbox.site</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/08-27-2016/8184</link>
+    <link>http://everbloom7.kbox.site/tournament/08-27-2016/8184</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, August 27, 2016 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/08-27-2016/8184&quot; title=&quot;August 27, 2016&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm9.staticflickr.com/8017/28987546830_eb75cbefd3_z.jpg&quot; alt=&quot;August 27, 2016&quot; title=&quot;August 27, 2016&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157673051080195&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sat, 27 Aug 2016 23:56:49 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8184 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8184 at http://everbloom7.kbox.site</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/08-06-2016/8157</link>
+    <link>http://everbloom7.kbox.site/tournament/08-06-2016/8157</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, August 6, 2016 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/08-06-2016/8157&quot; title=&quot;August 6, 2016&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm9.staticflickr.com/8242/28196852653_ac621c63a7_z.jpg&quot; alt=&quot;August 6, 2016&quot; title=&quot;August 6, 2016&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157672095998555&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sat, 06 Aug 2016 23:06:57 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8157 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8157 at http://everbloom7.kbox.site</guid>
   </item>
   <item>
     <title>Everbloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/07-23-2016/8133</link>
+    <link>http://everbloom7.kbox.site/tournament/07-23-2016/8133</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, July 23, 2016 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/07-23-2016/8133&quot; title=&quot;July 23, 2016&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm9.staticflickr.com/8716/28031706753_1c7fb9b288_z.jpg&quot; alt=&quot;July 23, 2016&quot; title=&quot;July 23, 2016&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157670961092451&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sat, 30 Jul 2016 11:07:09 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8133 at https://everbloom7.kbox.site</guid>
-  </item>
-  <item>
-    <title>Ever-Bloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/06-18-2016/8107</link>
-    <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, June 18, 2016 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/06-18-2016/8107&quot; title=&quot;June 18, 2016&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm8.staticflickr.com/7457/27767313505_2c2fc6d5bf_z.jpg&quot; alt=&quot;June 18, 2016&quot; title=&quot;June 18, 2016&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157669865674196&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Sun, 19 Jun 2016 11:13:58 +0000</pubDate>
- <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8107 at https://everbloom7.kbox.site</guid>
-  </item>
-  <item>
-    <title>Ever-Bloom Tournament</title>
-    <link>https://everbloom7.kbox.site/tournament/06-04-2016/8078</link>
-    <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, June 4, 2016 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/tournament/06-04-2016/8078&quot; title=&quot;June 4, 2016&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://farm8.staticflickr.com/7444/27155168084_3242ab3c7b_z.jpg&quot; alt=&quot;June 4, 2016&quot; title=&quot;June 4, 2016&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157669959208875&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Sun, 05 Jun 2016 11:00:16 +0000</pubDate>
- <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8078 at https://everbloom7.kbox.site</guid>
+ <guid isPermaLink="false">8133 at http://everbloom7.kbox.site</guid>
   </item>
   </channel>
 </rss>
