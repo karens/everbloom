@@ -1,0 +1,274 @@
+body { font-size:18px;}
+
+.view-subfooter { display:none; }
+
+.submitted, ul.links { font-size: smaller; }
+
+.node-readmore { float: right; }
+
+/* Style overrides over the Jackson defaults */
+
+
+#banner-wrap {
+  height: auto;
+  clear: both;
+  background-color: #082725;
+}
+
+div.region-banner {
+  padding-bottom: 20px;
+}
+
+ul#main-menu {
+  list-style: none outside none;
+  padding: 0;
+  border-top: 1px #234542 solid;
+}
+
+ul#main-menu li {
+  height: 43px;
+}
+
+.tabs .primary a {
+  padding: 5px 2em 0 2em;
+  border-radius: 5px 5px 0 0;
+}
+
+p {
+  margin-bottom: 1em;
+}
+
+#main h2 {
+  font-weight: bold;
+  color: #3D5454;
+  font-size: 30px;
+}
+
+#main h2 a {
+  color: #3D5454;
+}
+
+#preface {
+  min-height: 0;
+}
+
+.action-list .form-submit,
+.ctools-button .form-submit {
+  color: #CF710C;
+}
+
+div.field-name-author {
+  width: auto;
+  float: left;
+}
+div.field-name-post-date {
+  width: auto;
+  float: left;
+}
+
+#site-name {
+  position: relative;
+  text-indent: 0;
+  font-size: 28px;
+}
+#logo {
+  margin-right: 10px;
+}
+
+#footer {
+  text-align: center;
+  background-color: #2F4C4A;
+  color: #ddd;
+  padding: 10px 0 30px 0;
+  border-top: 10px #082725 solid;
+}
+
+table { margin:10px 0; border: 1px solid #cdcdcd; border-collapse:collapse; border-spacing:0; width: 100%;}
+
+table {
+  font-size: 16px;
+}
+
+th {background:#cdcdcd; color:#ffffff;}
+
+tr.even { background-color:#e0e3eb; }
+
+tr.odd { background-color:#ffffff; }
+
+td,th { padding:10px; }
+
+td { border: 1px solid #cdcdcd;}
+
+td.active { background:none; border: 1px solid #cdcdcd;}
+
+/* Remove unneeded calendar padding */
+.date-nav {
+  padding-bottom: 0;
+}
+
+.view .date-nav-wrapper .date-nav,
+.view .date-nav-wrapper .date-nav h3,
+.view .date-nav-wrapper .date-nav a,
+.view .date-nav-wrapper .date-prev,
+.view .date-nav-wrapper .date-next {
+  color: #fff;
+  background-color: #CF710C;
+}
+.view .date-nav-wrapper .date-heading h3 {
+  padding: 5px;
+  font-size: 24px;
+}
+
+/* Style Sam Lehman block */
+#samlehman,
+#samlehman td {
+  text-align: center;
+  width: 100%;
+  border:none;
+  background-color: #082725;
+}
+#samlehman img {
+  text-align: center;
+  display: block;
+  margin: auto;
+}
+
+/* The sponsor page */
+#node-233 img {
+  margin: 0 10px;
+  vertical-align: middle;
+}
+
+.dark-background {
+  background-color: #000;
+  padding: 10px;
+}
+
+/* Style Heavy Weight and Big Fish blocks */
+#block-views-team-standings-block-3,
+#block-views-team-standings-block-4 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.block-bean {
+  text-align: center;
+}
+
+/* Remove extra padding from Standings block */
+.sidebar #block-views-team-standings-block-2 .content {
+  padding: 0;
+}
+
+/**
+ * Carousel skin.
+ */
+
+.jcarousel-container-horizontal {
+  width: 93%;
+  height: 240px;
+  padding: 20px 40px;
+  margin: auto;
+}
+
+.jcarousel-clip-horizontal {
+  width: 98%;
+  overflow: hidden;
+}
+
+
+.jcarousel-item {
+  padding: 0;
+  width: 240px;
+  height: 240px;
+  overflow: hidden;
+  border: 1% solid #FFF;
+  list-style: none;
+  background: #fff none;
+}
+
+.jcarousel-item-horizontal {
+  margin: 0 1%;
+}
+
+.jcarousel-item-placeholder {
+  background: #fff url(../throbber/index.gif) no-repeat center center;
+  color: #000;
+}
+
+.jcarousel-clip div.views-field-field-flickr-set,
+.jcarousel-clip div.views-field-field-date,
+.jcarousel-clip div.views-field-field-location {
+  text-align: center;
+  background-color: #1C1F2A;
+  color: #fff;
+}
+
+.jcarousel-clip div.views-field-field-date {
+  min-height: 16px;
+  padding-bottom: 36px;
+}
+
+
+/**
+ * Buttons
+ */
+.jcarousel-next,
+.jcarousel-prev {
+  display: block;
+  width: 32px;
+  height: 32px;
+  background-image: url(../arrows/index.png);
+}
+
+.jcarousel-next-disabled,
+.jcarousel-prev-disabled {
+  display: none;
+}
+
+/**
+ * Horizontal Buttons
+ */
+.jcarousel-prev-horizontal {
+  position: absolute;
+  top: 55px;
+  left: 10px;
+  background-position: 0 0;
+}
+.jcarousel-prev-horizontal:hover {
+  background-position: -32px 0;
+}
+.jcarousel-prev-horizontal:active {
+  background-position: -64px 0;
+}
+
+.jcarousel-next-horizontal {
+  position: absolute;
+  top: 55px;
+  right: 10px;
+  background-position: 0 -32px;
+}
+.jcarousel-next-horizontal:hover {
+  background-position: -32px -32px;
+}
+.jcarousel-next-horizontal:active {
+  background-position: -64px -32px;
+}
+
+
+.jcarousel-navigation {
+  margin: 0;
+  padding: 0;
+}
+
+.jcarousel-navigation li {
+  display: inline;
+  margin: 0 2px 0 0;
+  padding: 0;
+  background: none;
+}
+
+.jcarousel-navigation li.active a {
+  font-weight: bold;
+  text-decoration: none;
+}
