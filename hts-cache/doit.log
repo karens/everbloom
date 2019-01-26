@@ -1,5 +1,5 @@
-http://everbloom.dev -O . -N %h%p/%n/index%[page].%t -WqQ%v -s0
-File generated automatically on Sat, 20 Sep 2014 07:37:46, do NOT edit
+https://everbloom7.lndo.site -O /Users/karen/Sites/www/everbloom.dev -N %h%p/%n/index%[page].%t -WqQ%v -s0
+File generated automatically on Fri, 25 Jan 2019 14:05:51, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
