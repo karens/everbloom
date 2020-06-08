@@ -1,13 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://everbloom-7.lndo.site/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://everbloom-7.lndo.site:8000/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ever-Bloom Tournament Trail - Central Illinois Bass Tournament Trail - 100% Payback</title>
-    <link>http://everbloom-7.lndo.site/</link>
+    <link>http://everbloom-7.lndo.site:8000/</link>
     <description></description>
     <language>en</language>
-     <atom:link href="http://everbloom-7.lndo.site/rss.xml?order=field_big_fish&amp;sort=asc" rel="self" type="application/rss+xml" />
+     <atom:link href="http://everbloom-7.lndo.site:8000/rss.xml?order=field_big_fish&amp;sort=asc" rel="self" type="application/rss+xml" />
       <item>
+    <title>Ever-Bloom Tournament</title>
+    <link>http://everbloom-7.lndo.site:8000/results/2020/06-06-2020</link>
+    <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, June 6, 2020 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Mon, 08 Jun 2020 10:12:38 +0000</pubDate>
+ <dc:creator>Karen Stevenson</dc:creator>
+ <guid isPermaLink="false">9111 at http://everbloom-7.lndo.site:8000</guid>
+  </item>
+  <item>
     <title>Schedule for 2020</title>
-    <link>http://everbloom-7.lndo.site/blog/schedule-2020</link>
+    <link>http://everbloom-7.lndo.site:8000/blog/schedule-2020</link>
     <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;ul&gt;&lt;li&gt;Apr 18, 2020 - Lake Bloomington&lt;/li&gt;
 &lt;li&gt;May 2, 2020 - Lake Evergreen&lt;/li&gt;
 &lt;li&gt;May 23, 2020 - Lake Bloomington&lt;/li&gt;
@@ -20,82 +28,74 @@
 &lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 12 Jan 2020 21:58:22 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">9081 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">9081 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Mid-Winter Stats</title>
-    <link>http://everbloom-7.lndo.site/blog/mid-winter-stats</link>
+    <link>http://everbloom-7.lndo.site:8000/blog/mid-winter-stats</link>
     <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Here are some mid-winter status for you to digest (yes, I do not like winter and get bored).&lt;/p&gt;
 &lt;p&gt;Since the inception of the Sam Leman Everbloom Tournament Trail in 2003, there have been 141 events. That&#039;s correct ... I have recorded weights and took photos ... Karen has uploaded the results ... and Terry has weighed and bumped fish 141 times!&lt;/p&gt;
 &lt;p&gt;After a review of all the results, I offer these interesting insights:&lt;/p&gt;
 &lt;p&gt;Largest total weight at one event:&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 12 Jan 2020 21:01:34 +0000</pubDate>
  <dc:creator>Mike Blake</dc:creator>
- <guid isPermaLink="false">9082 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">9082 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Ever-Bloom Classic</title>
-    <link>http://everbloom-7.lndo.site/results/2019/09-14-2019</link>
+    <link>http://everbloom-7.lndo.site:8000/results/2019/09-14-2019</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;Saturday, September 14, 2019 - 6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;Sunday, September 22, 2019 - 2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/09-14-2019&quot; title=&quot;September 14 &amp;amp; 22, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/48799645827_c9b8f2e890_z.jpg&quot; alt=&quot;September 14 &amp;amp; 22, 2019&quot; title=&quot;September 14 &amp;amp; 22, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157711074576622&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Thu, 26 Sep 2019 15:46:24 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">9055 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">9055 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>http://everbloom-7.lndo.site/results/2019/08-24-2019</link>
+    <link>http://everbloom-7.lndo.site:8000/results/2019/08-24-2019</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, August 24, 2019 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/08-24-2019&quot; title=&quot;August 24, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/48616455658_cf3c116f06_z.jpg&quot; alt=&quot;August 24, 2019&quot; title=&quot;August 24, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157710535495036&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 25 Aug 2019 11:08:13 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">9029 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">9029 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>http://everbloom-7.lndo.site/results/2019/08-03-2019</link>
+    <link>http://everbloom-7.lndo.site:8000/results/2019/08-03-2019</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, August 3, 2019 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/08-03-2019&quot; title=&quot;August 3, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/48463465861_d07cabff20_z.jpg&quot; alt=&quot;August 3, 2019&quot; title=&quot;August 3, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157710113441162&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Mon, 05 Aug 2019 14:04:39 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">9000 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">9000 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>http://everbloom-7.lndo.site/results/2019/07-20-2019</link>
+    <link>http://everbloom-7.lndo.site:8000/results/2019/07-20-2019</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, July 20, 2019 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/07-20-2019&quot; title=&quot;July 29, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/48341221371_c0d9ffedfb_z.jpg&quot; alt=&quot;July 29, 2019&quot; title=&quot;July 29, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157709792601887&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 21 Jul 2019 21:00:04 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8973 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">8973 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>http://everbloom-7.lndo.site/results/2019/06-15-2019</link>
+    <link>http://everbloom-7.lndo.site:8000/results/2019/06-15-2019</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, June 15, 2019 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/06-15-2019&quot; title=&quot;June 15, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/48073186722_fc2e7939d2_z.jpg&quot; alt=&quot;June 15, 2019&quot; title=&quot;June 15, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157709108876853&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Sun, 16 Jun 2019 14:48:30 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8947 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">8947 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>http://everbloom-7.lndo.site/results/2019/06-01-2019</link>
+    <link>http://everbloom-7.lndo.site:8000/results/2019/06-01-2019</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, June 1, 2019 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Bloomington&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/06-01-2019&quot; title=&quot;June 1, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/48012668972_210af9fbf7_z.jpg&quot; alt=&quot;June 1, 2019&quot; title=&quot;June 1, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157708952088208&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Wed, 05 Jun 2019 11:48:00 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8916 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">8916 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   <item>
     <title>Ever-Bloom Tournament</title>
-    <link>http://everbloom-7.lndo.site/results/2019/05-18-2019</link>
+    <link>http://everbloom-7.lndo.site:8000/results/2019/05-18-2019</link>
     <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, May 18, 2019 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Lake Evergreen&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/05-18-2019&quot; title=&quot;May 18, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/40925906273_5202017e58_z.jpg&quot; alt=&quot;May 18, 2019&quot; title=&quot;May 18, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157691529930253&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
      <pubDate>Mon, 20 May 2019 17:27:50 +0000</pubDate>
  <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8888 at http://everbloom-7.lndo.site</guid>
-  </item>
-  <item>
-    <title>Ever-Bloom Tournament</title>
-    <link>http://everbloom-7.lndo.site/results/2019/05-04-2019</link>
-    <description>&lt;div class=&quot;field field-name-field-date field-type-date field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;date-display-single&quot;&gt;Saturday, May 4, 2019 - &lt;span class=&quot;date-display-range&quot;&gt;&lt;span class=&quot;date-display-start&quot;&gt;6:00am&lt;/span&gt; to &lt;span class=&quot;date-display-end&quot;&gt;2:00pm&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-location field-type-list-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Location:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;N/A&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-flickr-set field-type-flickrfield-photoset field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;flickr-photoset-img&quot;&gt;&lt;a href=&quot;/results/2019/05-04-2019&quot; title=&quot;May 4, 2019&quot;&gt;&lt;img class=&quot;flickr-photoset-img&quot; src=&quot;https://live.staticflickr.com/65535/46989202524_8aef2078b4_z.jpg&quot; alt=&quot;May 4, 2019&quot; title=&quot;May 4, 2019&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;flickr-citation&quot;&gt;&lt;a href=&quot;https://www.flickr.com/photos/72965451@N00/sets/72157706928713741&quot;&gt;Source: Flickr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
-     <pubDate>Sun, 05 May 2019 10:12:24 +0000</pubDate>
- <dc:creator>Karen Stevenson</dc:creator>
- <guid isPermaLink="false">8859 at http://everbloom-7.lndo.site</guid>
+ <guid isPermaLink="false">8888 at http://everbloom-7.lndo.site:8000</guid>
   </item>
   </channel>
 </rss>
