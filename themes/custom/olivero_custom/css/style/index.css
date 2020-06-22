@@ -1,0 +1,75 @@
+/**
+ * @file
+ * Colors and appearance styles.
+ *
+ * Component styles in this file are simple overrides for easy updating.
+ */
+.path-frontpage h1.page-title {
+  display: none;
+}
+.center {
+  text-align: center;
+}
+.site-slogan {
+  font-style: italic;
+  font-size: medium;
+  font-weight: normal;
+}
+.block-block-content2464d1ac-e26e-467f-a9e1-007e2c27f132 {
+  background-color: #000;
+  padding: 7px;
+}
+.block-block-content .field--name-field-attachments {
+  text-align: center;
+}
+.block-block-content2464d1ac-e26e-467f-a9e1-007e2c27f132 img {
+  width: 100%;
+}
+#block-zoom img {
+  width: 100%;
+}
+div.block-views-blockteam-standings-heavy-weight,
+div.block-views-blockteam-standings-big-fish {
+  border: solid 1px #ddd;
+  height: 100%;
+  padding: 5px;
+}
+.block-block-content56d38d72-854f-42a2-855b-3b7fd032d9eb,
+.block-block-content56d38d72-854f-42a2-855b-3b7fd032d9eb h3,
+.block-block-content56d38d72-854f-42a2-855b-3b7fd032d9eb .field--name-body,
+.block-block-content56d38d72-854f-42a2-855b-3b7fd032d9eb .field:not(:last-child),
+.block-views-blockteam-standings-big-fish div.view-header,
+.block-views-blockteam-standings-heavy-weight div.view-header,
+.block-views-blockteam-standings-big-fish div.view-content,
+.block-views-blockteam-standings-heavy-weight div.view-content,
+.block-views-blockteam-standings-big-fish div.view-footer,
+.block-views-blockteam-standings-heavy-weight div.view-footer,
+.block-views-blockteam-standings-big-fish h2,
+.block-views-blockteam-standings-heavy-weight h2 {
+  margin: 0;
+  padding: 0;
+}
+.block-views-blockteam-standings-big-fish div.view-content,
+.block-views-blockteam-standings-heavy-weight div.view-content {
+  font-size: 24px;
+  font-weight: bold;
+}
+.block-views-blockfrontpage-block-1 {
+  margin-top: 36px;
+}
+@media (min-width: 700px) {
+  .block-views-blockfrontpage-block-1 {
+    margin-top: 54px;
+  }
+}
+tfoot {
+  font-weight: bold;
+  border-bottom: double 3px #000;
+  border-top: solid 1px #000;
+}
+.block-views-blocksponsors-block-1 {
+}
+.block-views-blocksponsors-block-1 img {
+  padding: 10px;
+  display: inline-block;
+}

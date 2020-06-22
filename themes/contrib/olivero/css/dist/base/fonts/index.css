@@ -1,0 +1,50 @@
+@font-face{
+  font-family:"metropolis";
+  src:url("../../../../fonts/metropolis/Metropolis-Regular/index.woff2") format("woff2"),
+    url("../../../../fonts/metropolis/Metropolis-Regular/index.woff") format("woff");
+  font-weight:normal;
+  font-style:normal;
+  font-display:swap;
+}
+
+@font-face{
+  font-family:"metropolis";
+  src:url("../../../../fonts/metropolis/Metropolis-Bold/index.woff2") format("woff2"),
+    url("../../../../fonts/metropolis/Metropolis-Bold/index.woff") format("woff");
+  font-weight:700;
+  font-style:normal;
+  font-display:swap;
+}
+
+@font-face{
+  font-family:"Lora";
+  src:local("Lora Regular"),
+    local("Lora-Regular"),
+    url("../../../../fonts/lora/lora-v14-latin-regular/index.woff2") format("woff2"),
+    url("../../../../fonts/lora/lora-v14-latin-regular/index.woff") format("woff");
+  font-weight:400;
+  font-style:normal;
+  font-display:swap;
+}
+
+@font-face{
+  font-family:"Lora";
+  src:local("Lora Italic"),
+    local("Lora-Italic"),
+    url("../../../../fonts/lora/lora-v14-latin-italic/index.woff2") format("woff2"),
+    url("../../../../fonts/lora/lora-v14-latin-italic/index.woff") format("woff");
+  font-weight:400;
+  font-style:italic;
+  font-display:swap;
+}
+
+@font-face{
+  font-family:"Lora";
+  src:local("Lora Bold"),
+    local("Lora-Bold"),
+    url("../../../../fonts/lora/lora-v14-latin-700/index.woff2") format("woff2"),
+    url("../../../../fonts/lora/lora-v14-latin-700/index.woff") format("woff");
+  font-weight:700;
+  font-style:normal;
+  font-display:swap;
+}

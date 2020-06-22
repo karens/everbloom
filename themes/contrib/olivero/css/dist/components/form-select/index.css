@@ -1,0 +1,103 @@
+select{
+  max-width:100%;
+  height:54px;
+  color:#313637;
+  outline:1px
+solid
+transparent;
+  font-family:inherit;
+  font-size:16px;
+  line-height:52px;
+  -webkit-appearance:none;
+  -moz-appearance:none;
+  appearance:none;
+}[dir] select{
+  border-width:2px 0;
+  border-style:solid;
+  border-color:transparent;
+  background-color:#f7f9fa;
+  background-image:url("../../../../images/chevron-down/index.svg"), url("../../../../images/select-chevron-bg-default/index.svg"), url("../../../../images/select-chevron-bg-default/index.svg");
+  background-repeat:no-repeat;
+}[dir=ltr] select{
+  padding:0 72px 0 24px;
+  border-radius:0 2px 2px 0;
+  background-position:right 18px center,
+    right 0 top -2px,
+    left -48px top -2px;
+}[dir=rtl] select{
+  padding:0 24px 0 72px;
+  border-radius:2px 0 0 2px;
+  background-position:left 18px center,
+    left 0 top -2px,
+    right -48px top -2px;
+}
+
+[dir] select:hover, [dir] select:focus{
+    border-color:#53b0eb;
+    background-image:url("../../../../images/chevron-down/index.svg"),
+      url("../../../../images/select-chevron-bg-highlight/index.svg"),
+      url("../../../../images/select-chevron-bg-highlight/index.svg");
+  }
+
+select:focus{
+    outline:6px
+dashed
+transparent;
+  }
+
+[dir] select:focus{
+    box-shadow:0
+0
+36px
+rgba(83, 176, 235, 0.25);
+  }
+
+@supports (outline-style: double){
+
+select:focus{
+      outline-style:double
+  }
+    }
+
+select::-ms-expand{
+    display:none;
+  }
+
+select[disabled]{
+    pointer-events:none;
+    opacity:0.6;
+  }
+
+[dir] select.error{
+    background-image:url("../../../../images/chevron-down/index.svg"),
+      url("../../../../images/select-chevron-bg-error/index.svg"),
+      url("../../../../images/select-chevron-bg-error/index.svg");
+  }
+
+[dir] select.error:hover, [dir] select.error:focus{
+      background-image:url("../../../../images/chevron-down/index.svg"),
+        url("../../../../images/select-chevron-bg-highlight/index.svg"),
+        url("../../../../images/select-chevron-bg-highlight/index.svg");
+    }
+
+select.form-element--small{
+    height:45px;
+    line-height:43px;
+  }
+
+[dir=ltr] select.form-element--small{
+  padding-right:45px;
+  background-position:right 13.5px center, right -10px top 0, left -48px top 0;
+  }
+
+[dir=rtl] select.form-element--small{
+    padding-left:45px;
+    background-position:left 13.5px center, left -10px top 0, right -48px top 0;
+  }
+
+@media screen and (-ms-high-contrast: active){
+
+[dir] select{
+    background-image:url("../../../../images/chevron-down/index.svg")
+}
+  }
