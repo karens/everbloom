@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="http://everbloom8.lndo.site:8080/">
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://everbloom8.lndo.site/">
   <channel>
     <title>Ever-Bloom Tournament Trail - Central Illinois Bass Tournament Trail - 100% Payback</title>
-    <link>http://everbloom8.lndo.site:8080/</link>
+    <link>https://everbloom8.lndo.site/</link>
     <description/>
     <language>en</language>
     
     <item>
   <title>Ever-Bloom Tournament</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-tournament-109</link>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-110</link>
+  <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
+&lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Sun, 07/26/2020 - 07:54 AM&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+
+&lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
+  
+    
+      &lt;div class="content"&gt;
+      
+  &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
+    &lt;div class="field__label"&gt;Date&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sat, Jul 25 2020 6:00 AM  -  Sat, Jul 25 2020 2:00 PM&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
+  
+    
+      &lt;div class="content"&gt;
+      
+  &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Location&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;Lake Evergreen&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      &lt;div class="content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sun, 26 Jul 2020 12:54:19 +0000</pubDate>
+    <dc:creator>Karen Stevenson</dc:creator>
+    <guid isPermaLink="false">13031 at https://everbloom8.lndo.site</guid>
+    </item>
+<item>
+  <title>Ever-Bloom Tournament</title>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-109</link>
   <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Sun, 06/21/2020 - 07:30 AM&lt;/span&gt;
@@ -92,11 +147,11 @@
 </description>
   <pubDate>Sun, 21 Jun 2020 12:30:55 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">13003 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">13003 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Ever-Bloom Tournament</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-tournament-108</link>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-108</link>
   <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Mon, 06/08/2020 - 05:12 AM&lt;/span&gt;
@@ -147,33 +202,33 @@
 </description>
   <pubDate>Mon, 08 Jun 2020 10:12:38 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9744 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9744 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Schedule for 2020</title>
-  <link>http://everbloom8.lndo.site:8080/articles/schedule-2020</link>
+  <link>https://everbloom8.lndo.site/articles/schedule-2020</link>
   <description>&lt;span&gt;Schedule for 2020&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Sun, 01/12/2020 - 03:58 PM&lt;/span&gt;
 </description>
   <pubDate>Sun, 12 Jan 2020 21:58:22 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9592 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9592 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Mid-Winter Stats</title>
-  <link>http://everbloom8.lndo.site:8080/articles/mid-winter-stats</link>
+  <link>https://everbloom8.lndo.site/articles/mid-winter-stats</link>
   <description>&lt;span&gt;Mid-Winter Stats&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Mike Blake&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Sun, 01/12/2020 - 03:01 PM&lt;/span&gt;
 </description>
   <pubDate>Sun, 12 Jan 2020 21:01:34 +0000</pubDate>
     <dc:creator>Mike Blake</dc:creator>
-    <guid isPermaLink="false">9593 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9593 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Ever-Bloom Classic</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-classic-11</link>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-classic-11</link>
   <description>&lt;span&gt;Ever-Bloom Classic&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Thu, 09/26/2019 - 10:46 AM&lt;/span&gt;
@@ -423,11 +478,11 @@
 </description>
   <pubDate>Thu, 26 Sep 2019 15:46:24 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9743 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9743 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Ever-Bloom Tournament</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-tournament-107</link>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-107</link>
   <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Sun, 08/25/2019 - 06:08 AM&lt;/span&gt;
@@ -631,11 +686,11 @@
 </description>
   <pubDate>Sun, 25 Aug 2019 11:08:13 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9742 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9742 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Ever-Bloom Tournament</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-tournament-106</link>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-106</link>
   <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Mon, 08/05/2019 - 09:04 AM&lt;/span&gt;
@@ -743,11 +798,11 @@
 </description>
   <pubDate>Mon, 05 Aug 2019 14:04:39 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9741 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9741 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Ever-Bloom Tournament</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-tournament-105</link>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-105</link>
   <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Sun, 07/21/2019 - 04:00 PM&lt;/span&gt;
@@ -846,11 +901,11 @@
 </description>
   <pubDate>Sun, 21 Jul 2019 21:00:04 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9740 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9740 at https://everbloom8.lndo.site</guid>
     </item>
 <item>
   <title>Ever-Bloom Tournament</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-tournament-104</link>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-104</link>
   <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
 &lt;span&gt;Sun, 06/16/2019 - 09:48 AM&lt;/span&gt;
@@ -994,160 +1049,7 @@
 </description>
   <pubDate>Sun, 16 Jun 2019 14:48:30 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9739 at http://everbloom8.lndo.site:8080</guid>
-    </item>
-<item>
-  <title>Ever-Bloom Tournament</title>
-  <link>http://everbloom8.lndo.site:8080/events/ever-bloom-tournament-103</link>
-  <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
-&lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
-&lt;span&gt;Wed, 06/05/2019 - 06:48 AM&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      
-
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-  &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
-    &lt;div class="field__label"&gt;Date&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sat, Jun 1 2019 6:00 AM  -  Sat, Jun 1 2019 2:00 PM&lt;/div&gt;
-          &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-  &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Location&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;Lake Bloomington&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-flickr-set"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-            &lt;div class="field field--name-field-flickr-set field--type-string field--label-hidden field__item"&gt;  &lt;div class="flickr-photoset"&gt;
-    &lt;p class="flickr-photoset-title"&gt;Flickr photos from the June 1, 2019 album.&lt;/p&gt;
-      &lt;div class="flickr-photos"&gt;
-      &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012597458/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012597458_a2d77c7de8_q.jpg" alt="IMG_3271 by Karen Stevenson" title="IMG_3271 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012582611/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012582611_9675c856e9_q.jpg" alt="IMG_3272 by Karen Stevenson" title="IMG_3272 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012597188/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012597188_9bfd2253ce_q.jpg" alt="IMG_3274 by Karen Stevenson" title="IMG_3274 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012669132/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012669132_631d711602_q.jpg" alt="IMG_3273 by Karen Stevenson" title="IMG_3273 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012582171/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012582171_e621b8ee4b_q.jpg" alt="IMG_3278 by Karen Stevenson" title="IMG_3278 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012668972/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012668972_210af9fbf7_q.jpg" alt="IMG_3279 by Karen Stevenson" title="IMG_3279 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012581826/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012581826_f7e327f9a0_q.jpg" alt="IMG_3281 by Karen Stevenson" title="IMG_3281 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012581701/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012581701_9bff17aee1_q.jpg" alt="IMG_3282 by Karen Stevenson" title="IMG_3282 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012581581/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012581581_a8c37299ab_q.jpg" alt="IMG_3283 by Karen Stevenson" title="IMG_3283 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012596238/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012596238_3d3016facf_q.jpg" alt="IMG_3284 by Karen Stevenson" title="IMG_3284 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012581416/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012581416_9ed401c1b8_q.jpg" alt="IMG_3285 by Karen Stevenson" title="IMG_3285 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012596058/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012596058_9a136fd9dc_q.jpg" alt="IMG_3286 by Karen Stevenson" title="IMG_3286 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012668087/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012668087_ee9b54f4a6_q.jpg" alt="IMG_3276 by Karen Stevenson" title="IMG_3276 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012581216/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012581216_e2d8b6bec8_q.jpg" alt="IMG_3275 by Karen Stevenson" title="IMG_3275 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012595788/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012595788_2650a4b1de_q.jpg" alt="IMG_3287 by Karen Stevenson" title="IMG_3287 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48012595663/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48012595663_b44e286fa6_q.jpg" alt="IMG_3277 by Karen Stevenson" title="IMG_3277 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
-  <pubDate>Wed, 05 Jun 2019 11:48:00 +0000</pubDate>
-    <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9738 at http://everbloom8.lndo.site:8080</guid>
+    <guid isPermaLink="false">9739 at https://everbloom8.lndo.site</guid>
     </item>
 
   </channel>
