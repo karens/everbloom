@@ -35,15 +35,16 @@ body{
 body.js-fixed{
     position:fixed;
     overflow:hidden;
+    width:100%;
   }
 
-body.js-fixed.is-always-mobile-nav{
-      width:100%;
-    }
-
 a{
-  color:inherit;
+  color:#0d77b5;
 }
+
+a:hover{
+    color:#2494db;
+  }
 
 img,
 audio,

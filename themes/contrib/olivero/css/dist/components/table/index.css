@@ -84,6 +84,14 @@ table td{
     border-bottom:2px solid #98abb9;
   }
 
+.tablesort{
+  vertical-align:middle;
+}
+
+.sticky-header{
+  z-index:0;
+}
+
 [dir] .sticky-header{
   margin:0;
   border-bottom:4px solid #2494db;

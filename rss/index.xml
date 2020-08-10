@@ -8,6 +8,61 @@
     
     <item>
   <title>Ever-Bloom Tournament</title>
+  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-111</link>
+  <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
+&lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
+&lt;span&gt;Sun, 08/09/2020 - 07:57 AM&lt;/span&gt;
+  &lt;div class="layout layout--onecol"&gt;
+    &lt;div class="layout__region layout__region--content"&gt;
+      
+
+&lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
+    &lt;div class="field__label"&gt;Date&lt;/div&gt;
+              &lt;div class="field__item"&gt;Sat, Aug 8 2020 6:00 AM  -  Sat, Aug 8 2020 2:00 PM&lt;/div&gt;
+          &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+  &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
+    &lt;div class="field__label"&gt;Location&lt;/div&gt;
+          &lt;div class="field__items"&gt;
+              &lt;div class="field__item"&gt;Lake Bloomington&lt;/div&gt;
+              &lt;/div&gt;
+      &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+
+&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
+  
+    
+      &lt;div class="block__content"&gt;
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;
+</description>
+  <pubDate>Sun, 09 Aug 2020 12:57:16 +0000</pubDate>
+    <dc:creator>Karen Stevenson</dc:creator>
+    <guid isPermaLink="false">13059 at https://everbloom8.lndo.site</guid>
+    </item>
+<item>
+  <title>Ever-Bloom Tournament</title>
   <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-110</link>
   <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
 &lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
@@ -19,7 +74,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
     &lt;div class="field__label"&gt;Date&lt;/div&gt;
@@ -33,7 +88,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Location&lt;/div&gt;
@@ -49,7 +104,7 @@
 &lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -74,7 +129,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
     &lt;div class="field__label"&gt;Date&lt;/div&gt;
@@ -88,7 +143,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Location&lt;/div&gt;
@@ -104,7 +159,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-flickr-set"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
             &lt;div class="field field--name-field-flickr-set field--type-string field--label-hidden field__item"&gt;  &lt;div class="flickr-photoset"&gt;
     &lt;p class="flickr-photoset-title"&gt;Flickr photos from the June 20, 2020 album.&lt;/p&gt;
@@ -137,7 +192,7 @@
 &lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -162,7 +217,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
     &lt;div class="field__label"&gt;Date&lt;/div&gt;
@@ -176,7 +231,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Location&lt;/div&gt;
@@ -192,7 +247,7 @@
 &lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -239,7 +294,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
     &lt;div class="field__label"&gt;Date&lt;/div&gt;
@@ -253,7 +308,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Location&lt;/div&gt;
@@ -270,7 +325,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-flickr-set"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
             &lt;div class="field field--name-field-flickr-set field--type-string field--label-hidden field__item"&gt;  &lt;div class="flickr-photoset"&gt;
     &lt;p class="flickr-photoset-title"&gt;Flickr photos from the September 14 &amp; 22, 2019 album.&lt;/p&gt;
@@ -468,7 +523,7 @@
 &lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -493,7 +548,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
     &lt;div class="field__label"&gt;Date&lt;/div&gt;
@@ -507,7 +562,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Location&lt;/div&gt;
@@ -523,7 +578,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-flickr-set"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
             &lt;div class="field field--name-field-flickr-set field--type-string field--label-hidden field__item"&gt;  &lt;div class="flickr-photoset"&gt;
     &lt;p class="flickr-photoset-title"&gt;Flickr photos from the August 24, 2019 album.&lt;/p&gt;
@@ -676,7 +731,7 @@
 &lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -701,7 +756,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
     &lt;div class="field__label"&gt;Date&lt;/div&gt;
@@ -715,7 +770,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-flickr-set"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
             &lt;div class="field field--name-field-flickr-set field--type-string field--label-hidden field__item"&gt;  &lt;div class="flickr-photoset"&gt;
     &lt;p class="flickr-photoset-title"&gt;Flickr photos from the August 3, 2019 album.&lt;/p&gt;
@@ -788,7 +843,7 @@
 &lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -813,7 +868,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
     &lt;div class="field__label"&gt;Date&lt;/div&gt;
@@ -827,7 +882,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
   &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
     &lt;div class="field__label"&gt;Location&lt;/div&gt;
@@ -843,7 +898,7 @@
 &lt;div class="block block-layout-builder block-field-blocknodeeventfield-flickr-set"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
             &lt;div class="field field--name-field-flickr-set field--type-string field--label-hidden field__item"&gt;  &lt;div class="flickr-photoset"&gt;
     &lt;p class="flickr-photoset-title"&gt;Flickr photos from the July 29, 2019 album.&lt;/p&gt;
@@ -891,7 +946,7 @@
 &lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
   
     
-      &lt;div class="content"&gt;
+      &lt;div class="block__content"&gt;
       
     &lt;/div&gt;
   &lt;/div&gt;
@@ -902,154 +957,6 @@
   <pubDate>Sun, 21 Jul 2019 21:00:04 +0000</pubDate>
     <dc:creator>Karen Stevenson</dc:creator>
     <guid isPermaLink="false">9740 at https://everbloom8.lndo.site</guid>
-    </item>
-<item>
-  <title>Ever-Bloom Tournament</title>
-  <link>https://everbloom8.lndo.site/events/ever-bloom-tournament-104</link>
-  <description>&lt;span&gt;Ever-Bloom Tournament&lt;/span&gt;
-&lt;span&gt;&lt;span&gt;Karen Stevenson&lt;/span&gt;&lt;/span&gt;
-&lt;span&gt;Sun, 06/16/2019 - 09:48 AM&lt;/span&gt;
-  &lt;div class="layout layout--onecol"&gt;
-    &lt;div class="layout__region layout__region--content"&gt;
-      
-
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-date"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-  &lt;div class="field field--name-field-date field--type-daterange field--label-above"&gt;
-    &lt;div class="field__label"&gt;Date&lt;/div&gt;
-              &lt;div class="field__item"&gt;Sat, Jun 15 2019 6:00 AM  -  Sat, Jun 15 2019 2:00 PM&lt;/div&gt;
-          &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-location"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-  &lt;div class="field field--name-field-location field--type-list-string field--label-above"&gt;
-    &lt;div class="field__label"&gt;Location&lt;/div&gt;
-          &lt;div class="field__items"&gt;
-              &lt;div class="field__item"&gt;Lake Evergreen&lt;/div&gt;
-              &lt;/div&gt;
-      &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-
-&lt;div class="block block-layout-builder block-field-blocknodeeventfield-flickr-set"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-            &lt;div class="field field--name-field-flickr-set field--type-string field--label-hidden field__item"&gt;  &lt;div class="flickr-photoset"&gt;
-    &lt;p class="flickr-photoset-title"&gt;Flickr photos from the June 15, 2019 album.&lt;/p&gt;
-      &lt;div class="flickr-photos"&gt;
-      &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073186722/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073186722_fc2e7939d2_q.jpg" alt="IMG_3288 by Karen Stevenson" title="IMG_3288 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073080356/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073080356_049d85ec1e_q.jpg" alt="IMG_3290 by Karen Stevenson" title="IMG_3290 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073186467/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073186467_50ef2fb321_q.jpg" alt="IMG_3291 by Karen Stevenson" title="IMG_3291 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073126583/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073126583_b38043d643_q.jpg" alt="IMG_3289 by Karen Stevenson" title="IMG_3289 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073186222/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073186222_ef53b6e9a1_q.jpg" alt="IMG_3292 by Karen Stevenson" title="IMG_3292 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073079816/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073079816_3b23cf6f4f_q.jpg" alt="IMG_3294 by Karen Stevenson" title="IMG_3294 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073185942/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073185942_d548fc412d_q.jpg" alt="IMG_3293 by Karen Stevenson" title="IMG_3293 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073079501/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073079501_4c9c18b5c6_q.jpg" alt="IMG_3296 by Karen Stevenson" title="IMG_3296 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073185577/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073185577_9aaac108a8_q.jpg" alt="IMG_3295 by Karen Stevenson" title="IMG_3295 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073125763/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073125763_701a0ffe39_q.jpg" alt="IMG_3297 by Karen Stevenson" title="IMG_3297 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073185262/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073185262_45ced2f2d4_q.jpg" alt="IMG_3298 by Karen Stevenson" title="IMG_3298 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073125483/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073125483_34b6f62642_q.jpg" alt="IMG_3299 by Karen Stevenson" title="IMG_3299 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073078676/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073078676_2234f0ba5b_q.jpg" alt="IMG_3300 by Karen Stevenson" title="IMG_3300 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073184657/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073184657_243fc1930d_q.jpg" alt="IMG_3301 by Karen Stevenson" title="IMG_3301 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-  &lt;div class="flickr-photo flickr-photo-q-square" style="max-width: 150px;"&gt;
-    &lt;a href="https://www.flickr.com/photos/72965451@N00/48073124778/" target="_blank"&gt;
-      &lt;img width="150" height="150" src="https://farm66.static.flickr.com/65535/48073124778_15d5659943_q.jpg" alt="IMG_3302 by Karen Stevenson" title="IMG_3302 by Karen Stevenson" /&gt;&lt;/a&gt;
-
-      &lt;/div&gt;
-
-  &lt;/div&gt;
-
-  &lt;/div&gt;
-&lt;/div&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-
-&lt;div class="block block-layout-builder block-extra-field-blocknodeeventlinks"&gt;
-  
-    
-      &lt;div class="content"&gt;
-      
-    &lt;/div&gt;
-  &lt;/div&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
-  <pubDate>Sun, 16 Jun 2019 14:48:30 +0000</pubDate>
-    <dc:creator>Karen Stevenson</dc:creator>
-    <guid isPermaLink="false">9739 at https://everbloom8.lndo.site</guid>
     </item>
 
   </channel>
